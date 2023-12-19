@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be231497.css",
+    "main.js": "/static/js/main.0985af19.js",
+    "static/media/Screenshot 2023-10-26 at 15-38-15 Logo Maker Used By 2.3 Million Startups.png": "/static/media/Screenshot 2023-10-26 at 15-38-15 Logo Maker Used By 2.3 Million Startups.6cdb06e22235eefc5ce7.png",
+    "index.html": "/index.html",
+    "main.be231497.css.map": "/static/css/main.be231497.css.map",
+    "main.0985af19.js.map": "/static/js/main.0985af19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be231497.css",
+    "static/js/main.0985af19.js"
+  ]
+}
